@@ -14,6 +14,6 @@ class Mp3TestCase(base.ShellParserTestCase, unittest.TestCase):
         """make sure google api python output is correct"""
         self.compare_python_output(self.raw_text_filename, method='google')
 
-    def test_mp3_sphinx(self):
-        """make sure sphinx python output is correct"""
-        self.compare_python_output(self.raw_text_filename, method='sphinx')
+    # def test_mp3_sphinx(self):
+    #     """make sure sphinx python output is correct"""
+    #     self.compare_python_output(self.raw_text_filename, method='sphinx')
