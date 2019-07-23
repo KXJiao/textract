@@ -5,6 +5,8 @@
 ..   * python setup.py sdist upload
 ..   * convert into release https://github.com/deanmalmgren/textract/releases
 
+Forked for Notemaker project: https://github.com/KXJiao/note-maker
+
 textract
 ========
 
